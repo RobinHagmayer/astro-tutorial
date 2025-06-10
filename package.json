@@ -9,7 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.7.13"
+    "@astrojs/preact": "^4.1.0",
+    "astro": "^5.7.13",
+    "preact": "^10.26.8"
   },
   "devDependencies": {
     "prettier-plugin-astro": "0.14.1"
